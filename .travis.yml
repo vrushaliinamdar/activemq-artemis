@@ -1,8 +1,8 @@
 sudo: false
 language: java
-install: true
 os:
   - linux-ppc64le
+install: true
 jdk:
   - openjdk8
 
